@@ -16,7 +16,7 @@ Now run the program with the following command :
 
 	python directory-fuzzer.py
   
-## Description
+## IMPORTANT NOTICE
 
 This source code is meant for educational purposes only and should not be used for malicious activity.
 
