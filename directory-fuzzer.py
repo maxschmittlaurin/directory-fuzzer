@@ -3,7 +3,7 @@
 # IMPORTANT NOTICE :
 # The following source code is meant for educational purposes only and should not be used for malicious activity.
 
-# This scripts finds resources on a remote host based on a word list provided as input.
+# This script finds resources on a remote host based on a word list provided as input.
 
 import requests
 from datetime import datetime
